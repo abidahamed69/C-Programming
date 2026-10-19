@@ -32,6 +32,7 @@ int main()
     printf("Reminder: %d\n",sum);
 
     printf("%d\n", ++a);
+    printf("%d\n", --b);
 
     return 0;
 }
